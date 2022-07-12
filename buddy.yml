@@ -1,7 +1,7 @@
 - pipeline: "test"
   on: "CLICK"
   refs:
-  - "refs/heads/master"
+  - "refs/heads/main"
   priority: "NORMAL"
   folder: ""
   fail_on_prepare_env_warning: false
