@@ -2,7 +2,7 @@
   on: "CLICK"
   refs:
   - "refs/heads/main"
-  priority: "NORMAL"
+  priority: "LOW"
   folder: ""
   fail_on_prepare_env_warning: false
   actions:
